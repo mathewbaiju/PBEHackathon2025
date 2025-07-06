@@ -1,5 +1,3 @@
-# PBEHackathon2025
-
 # 🚀 Project Atlas: AI-Driven Program Management for Modern Teams
 
 > **Reimagining program management with Airtable, Cursor, Beacon, and automated task orchestration.**
