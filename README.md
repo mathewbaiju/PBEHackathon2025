@@ -67,6 +67,12 @@
    - **Airtable Automations** handle communication and reporting.
 
 
+
+
+![📋-Program-Charter-Creation](https://github.com/user-attachments/assets/277bd2f0-b87e-4951-9dc5-78a2e78ecf60)
+
+
+
 ---
 
 ## 🧰 Tech Stack
