@@ -52,37 +52,10 @@
    - Airtable is updated automatically as tasks progress.  
    - **Airtable Automations** handle communication and reporting.
 
----
 
-## 🧭 Mermaid Diagram
 
 ![image](https://github.com/user-attachments/assets/189635cd-f3c9-416d-a10a-9b54c5053502)
 
-
----
-
-## 🖼️ Visual Workflow (for presentation)
-
-> You can recreate this using https://excalidraw.com/, https://www.lucidchart.com/, or https://figma.com. Here's a layout suggestion:
-
-```
-[👤 Product Manager]
-        |
-        v
-[📋 Airtable: Program Charter] ---> [🧠 Cursor] <--- [📁 Airtable: Project Details]
-        |                                 |
-        v                                 v
-[🔗 Beacon: Dependencies & Owners] --> [🛠️ Tasks in Jira/GitHub]
-        |                                 |
-        v                                 v
-[👥 Auto-assigned Owners]         [🗓️ Project Plan in Airtable]
-                                         |
-                                         v
-                              [📊 Airtable Dashboard]
-                                         |
-                                         v
-                              [📣 Airtable Automations]
-```
 
 ---
 
