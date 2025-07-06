@@ -3,7 +3,8 @@
 > **Reimagining program management with Airtable, Cursor, Beacon, and automated task orchestration.**
 
 
-![A futuristic, dynamic, and vibrant illustration of Project Atlas AI-Driven Program Management for M](https://github.com/user-attachments/assets/692e378c-c7e9-480d-a8ea-436727fc17a2)
+![A futuristic, dynamic, and vibrant illustration of Project Atlas AI-Driven Program Management for M (1)](https://github.com/user-attachments/assets/11b9a00b-d8da-455f-a767-cd22f9f93398)
+
 
 
 
