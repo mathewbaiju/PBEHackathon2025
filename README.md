@@ -56,16 +56,8 @@
 
 ## 🧭 Mermaid Diagram
 
- graph TD
-    PM[👤 Product Manager] -->|Creates| AirtableCharter[📋 Airtable: Program Charter]
-    TPM[👤 TPM] -->|Uses Cursor to pull| AirtableCharter
-    TPM -->|Uses Cursor to pull| AirtableDetails[📁 Airtable: Project Details]
-    TPM -->|Fetches| Beacon[🔗 Beacon: Dependencies & Owners]
-    TPM -->|Analyzes & Creates| Tasks[🛠️ Tasks in Jira/GitHub]
-    Tasks -->|Auto-assigns| Owners[👥 Service/Product Owners]
-    TPM -->|Creates| Plan[🗓️ Project Plan in Airtable]
-    Tasks -->|Updates| Dashboard[📊 Airtable Dashboard]
-    Dashboard -->|Triggers| Automation[📣 Airtable Automations] 
+![image](https://github.com/user-attachments/assets/189635cd-f3c9-416d-a10a-9b54c5053502)
+
 
 ---
 
