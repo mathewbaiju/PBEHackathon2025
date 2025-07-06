@@ -23,6 +23,16 @@
 
 ## 🔄 Workflow
 
+
+
+
+![image](https://github.com/user-attachments/assets/189635cd-f3c9-416d-a10a-9b54c5053502)
+
+
+
+
+
+
 1. **📋 Program Charter Creation**  
    A **Product Manager** creates and updates the **Program Charter** in **Airtable**.
 
@@ -51,10 +61,6 @@
 7. **📊 Live Monitoring & Reporting**  
    - Airtable is updated automatically as tasks progress.  
    - **Airtable Automations** handle communication and reporting.
-
-
-
-![image](https://github.com/user-attachments/assets/189635cd-f3c9-416d-a10a-9b54c5053502)
 
 
 ---
