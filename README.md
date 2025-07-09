@@ -1,9 +1,9 @@
-# 🚀 Project Atlas: AI-Driven Program Management for Modern Teams
+# 🚀 Project Gantt Get Enough : AI-Driven Program Management for Modern Teams
 
 > **Reimagining program management with Airtable, Cursor, Beacon, and automated task orchestration.**
 
 
-![A futuristic, dynamic, and vibrant illustration of Project Atlas AI-Driven Program Management for M (1)](https://github.com/user-attachments/assets/11b9a00b-d8da-455f-a767-cd22f9f93398)
+![A futuristic, dynamic, and vibrant illustration of Project Gantt Get Enough AI-Driven Program Management for M (1)](https://github.com/user-attachments/assets/11b9a00b-d8da-455f-a767-cd22f9f93398)
 
 
 
