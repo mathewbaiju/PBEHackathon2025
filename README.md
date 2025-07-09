@@ -12,7 +12,7 @@
 
 ## 📌 Overview
 
-**Project Atlas** is a next-gen project management method tailored for **Technical Program Managers (TPMs)**. It leverages **Airtable** for structured data, **Cursor** for AI-powered analysis, and **Beacon** for service ownership and dependency mapping. The result? A fully automated, intelligent workflow that transforms how programs are planned, tracked, and executed.
+**Project Gantt Get Enough** is a next-gen project management method tailored for **Technical Program Managers (TPMs)**. It leverages **Airtable** for structured data, **Cursor** for AI-powered analysis, and **Beacon** for service ownership and dependency mapping. The result? A fully automated, intelligent workflow that transforms how programs are planned, tracked, and executed.
 
 ---
 
