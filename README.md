@@ -65,7 +65,8 @@
    - **Airtable Automations** handle communication and reporting.
 
 
-![Project-Gantt-Get-Enough (1)](https://github.com/user-attachments/assets/bde7713c-47a9-4d92-92a3-20c3adb91824)
+![photo-output](https://github.com/user-attachments/assets/3ce13528-2167-46a8-89f7-a006bb4ab35b)
+
 
 
 
@@ -82,6 +83,11 @@
 | **Jira/GitHub** | Task tracking and assignment               |
 
 ---
+
+
+![📋-Program-Charter-Creation](https://github.com/user-attachments/assets/2c896f4d-945c-4048-8593-9e903cb7e474)
+
+
 
 ## 🎯 Goals
 
