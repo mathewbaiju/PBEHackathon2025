@@ -3,9 +3,7 @@
 > **Reimagining program management with Airtable, Cursor, Beacon, and automated task orchestration.**
 
 
-![A futuristic, dynamic, and vibrant illustration of Project Gantt Get Enough AI-Driven Program Management for M (1)](https://github.com/user-attachments/assets/11b9a00b-d8da-455f-a767-cd22f9f93398)
-
-
+![Untitled](https://github.com/user-attachments/assets/e8734131-256a-4359-be19-9d1ff62a573f)
 
 
 ---
@@ -67,9 +65,8 @@
    - **Airtable Automations** handle communication and reporting.
 
 
+![Project-Gantt-Get-Enough (1)](https://github.com/user-attachments/assets/bde7713c-47a9-4d92-92a3-20c3adb91824)
 
-
-![📋-Program-Charter-Creation](https://github.com/user-attachments/assets/277bd2f0-b87e-4951-9dc5-78a2e78ecf60)
 
 
 
